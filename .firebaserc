@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyecto-integrador-9f59d": {
+      "hosting": {
+        "client": [
+          "proyecto-integrador-9f59d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyecto-integrador-9f59d"
+  }
+}
